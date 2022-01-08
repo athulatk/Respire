@@ -703,7 +703,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   background: rgba(6, 12, 34, 0.76);
   position: absolute;
   left: 0;
-  bottom: -30px;
+  bottom: -5px;
   right: 0;
   text-align: center;
   padding-top: 10px;
@@ -718,7 +718,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #manifesto .speaker .details p {
-  color: #fff;
+  color: #f82249;
   font-size: 15px;
   margin-bottom: 10px;
   font-style: italic;
